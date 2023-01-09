@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.254,=C:\Users\SuperVolt\Desktop\HorsMessenger\MainModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,=C:\Users\SuperVolt\Desktop\HorsMessenger\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,=C:\Users\SuperVolt\Desktop\HorsMessenger\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\SuperVolt\Desktop\HorsMessenger\LoginFrm.pas=C:\Users\SuperVolt\Desktop\HorsMessenger\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,C:\Users\SuperVolt\Desktop\HorsMessenger\Sphere_Messenger.dproj=C:\Users\SuperVolt\Desktop\HorsMessenger\HorsMessenger.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,=C:\Users\SuperVolt\Desktop\HorsMessenger\ServerModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,C:\Users\SuperVolt\Desktop\HorsMessenger\LoginFrm.dfm=C:\Users\SuperVolt\Desktop\HorsMessenger\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
